@@ -1,0 +1,10 @@
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\bin\Debug\net472\NoDoubleEffects.dll
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\bin\Debug\net472\NoDoubleEffects.pdb
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\obj\Debug\net472\NoDoubleEffects.csproj.AssemblyReference.cache
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\obj\Debug\net472\NoDoubleEffects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\obj\Debug\net472\NoDoubleEffects.AssemblyInfoInputs.cache
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\obj\Debug\net472\NoDoubleEffects.AssemblyInfo.cs
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\obj\Debug\net472\NoDoubleEffects.csproj.CoreCompileInputs.cache
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\obj\Debug\net472\NoDoubleEffects.sourcelink.json
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\obj\Debug\net472\NoDoubleEffects.dll
+C:\Users\Konsi\Documents\CS2-Modding\CS2-Region-Flag-Icons\NoDoubleEffects\obj\Debug\net472\NoDoubleEffects.pdb
